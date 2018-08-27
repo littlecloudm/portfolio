@@ -1,0 +1,27 @@
+#table div{
+  display:inline;
+  padding-right:20px;
+}
+#table{
+  text-align:right;
+}
+#intro{
+  padding-left:53px;
+  font-size:15px;
+}
+#name{
+  padding-left:20px;
+  font-size:50px;
+}
+body{
+  margin:20px;
+  background-color:beige;
+}
+a{
+  color:dimgray;
+  text-decoration:none;
+}
+#active{
+  color:black;
+  font-weight:bold;
+}
